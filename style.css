@@ -5,10 +5,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background-color: rgb(0, 75, 50);
+    background-color: rgb(201, 253, 236);
 }
 nav{
-    background-color: rgb(35, 18, 133);
+    background-color: rgb(46, 255, 203);
 }
 ul{
     display: flex;
